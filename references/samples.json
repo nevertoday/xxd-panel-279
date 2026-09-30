@@ -1,0 +1,367 @@
+{
+  "panel": "xxd-panel-279",
+  "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+  "status": "ready",
+  "samples": [
+    {
+      "file": "assets/examples/sample-01.png",
+      "sha256": "47dbc98f0f2573c59ff8f6d6e565ed6032ded173f12770be685b29efb6c8622d",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-02.png",
+      "sha256": "6047f8a0be12ae80b4c33418ca7beea7f3237515367b175232e204c9e5d74c83",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-03.png",
+      "sha256": "1f5f3427a56ad2f8a467f8ce194fe16642a899982ef4fdc61fe92c8952e12267",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-04.png",
+      "sha256": "e9dd69ba94afb2db2a2dd5964ac5492de3e12c960e65143453d81cbe002d5860",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-05.png",
+      "sha256": "6353e6734a43974205877bddab3a431fb8484d545973c3bb8909d808948e5f90",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-06.png",
+      "sha256": "29df08bfc5ba630b16209651690feef93901c332232218433b6a1abcf0177619",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-07.png",
+      "sha256": "c6809b45fa4fa9bd22978452006d3f327968af674f4e248187818a6e3dd4a737",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-08.png",
+      "sha256": "8e84c99b4590953c71067c9b5904f60014d183f4d27e3abaec4b3e9828812032",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-09.png",
+      "sha256": "2c69f3eb134d326995914e5dc47ef20002d8eeced62dfdc434a893cd800d38a8",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-10.png",
+      "sha256": "28e9346777096e302edcd0e795aa2d09e18f9d2f485832b8776a98d325f18ac0",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-11.png",
+      "sha256": "940f13536c75ccfdba8e49ed37532bd48a0ece39322fcec5f6b9f2fe4ae02190",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-12.png",
+      "sha256": "55f952addfc3e7b95d81f6f9f944e925b2721526e6255e69c527fc3265858fc5",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-13.png",
+      "sha256": "cf4f65ba19f1d952e41c5c57c3ef5ed2824f9cd595736f3ffd95bdbc62bf8a72",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-14.png",
+      "sha256": "4cf90cad0678e757fa04a863d6e0ad1fc110b4b7f6c9296974579388688924c6",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-15.png",
+      "sha256": "0d226dfbcac3dc347cb7729980fa46e2286b0812673d717e97da0f2112f1faaf",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-16.png",
+      "sha256": "df2a7c904bfaa81c1df96d83dd34d2bcf77910a9e262e0751dee61fdf640305a",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-17.png",
+      "sha256": "b131e5aeebd217d116f45172fa96cfa2813973f1e1abf6dc18a02fa110d25316",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-18.png",
+      "sha256": "530a718413cf6e5c82b2cc7bb4d1bbb2a154713589a6e37cf6cdcbf18d725385",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-19.png",
+      "sha256": "e485c3b880decb654541120e7b4ca8141b8e3f0a8215ec5a1eb3bb630d9be11b",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-20.png",
+      "sha256": "1fbfde3c74d32cb9fc0b1ebe5181de298c03124b3315df143b09d825a9809898",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-21.png",
+      "sha256": "c57242468bc3798ef5fc007e68c1c621d2aab344e9bf99c2b2d98dfcce7e7ac5",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-22.png",
+      "sha256": "d1e3fef8fe5b93f2c5a4149d57f677a83914c606108f85b702c77b1eb0a9196c",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-23.png",
+      "sha256": "81455a394ab8daa9ea61516754c0fed63fbda3527a7fa9c4e5121a62e0227203",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-24.png",
+      "sha256": "c6826ecf10dbd32075fce340a8f56ef428685db9e8056066a3d1df6f57c4a301",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-25.png",
+      "sha256": "04076a12623de9a98bcfd31bbc11223c4b4fefc5fdf484a564ac91c7102e70a3",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-26.png",
+      "sha256": "05e7d75277131cb05afdec062e0d8842d5978f8587d2f75ff70b9fba9d5d0901",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-27.png",
+      "sha256": "07367a21c6d6c30d724fe9c1924c46e03f2fb954b4c52d3ad73718bd83d760fd",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-28.png",
+      "sha256": "74f33dc678a5af10286593658d4afc9b31dd554f9967d45f80dbccf5faa13170",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-29.png",
+      "sha256": "c24ebb421175bf8ab3a5007af0fde54e3a7da6ce55b77ce15b490774d0654b48",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-30.png",
+      "sha256": "75312eb20a162de849a088315a97de7eab54fd5f7d9aba4547f6c8b7c6d5ddfa",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-31.png",
+      "sha256": "f691c9335f247a42a87bb5314b3247b0544ee954238a05edbc97f1eabaf9af73",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-32.png",
+      "sha256": "d78d8e4c4d7d7d7339d0a2f4940ee96052f8a45c82c878d0c90ffc69d4ad5222",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-33.png",
+      "sha256": "207b77ba59dc2a524f268031e1393cabed93565135e7f486c97dce0dc50bc77e",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-34.png",
+      "sha256": "7fdc13ce3b454450dcdf6a35109277c8a048f232eb2704ff7934ff3d9cd77dd3",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-35.png",
+      "sha256": "8cd54c064463109262aac6cc21e0b8c85eb19c287f6f47f2f3c4f9ecc2374c42",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-36.png",
+      "sha256": "23b211ce0e41b81d5c7a97a96fd48bc9beac8659566b5189090ed7694dc3b018",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-37.png",
+      "sha256": "3044b21d5c1f4dcb4425c5096bbad7f85a676b130662d5508e17d0cc405614f7",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-38.png",
+      "sha256": "32be0167f0bd8820e7ebad6eebdf775ff81c9364636af4f6d7d6056709966de7",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-39.png",
+      "sha256": "f7ea59c216c9c3d4052884ef15a7e0a3e58ec98f07507cb5f8fa2bbe3f6e9ef3",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-40.png",
+      "sha256": "8d11256c8df35585bf2ee48bc1c5a61062663089a596819ae55121ab9c188ced",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "bab33be1f888c953cd01f21ab42961c6f3117665c6cea536a5ef64f1cb8ddeea",
+      "visual_review": "passed"
+    }
+  ]
+}
